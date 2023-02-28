@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TANK", "TANK\TANK.vcxproj", "{9863527C-2814-4C9C-A81A-997F0F1C256A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9863527C-2814-4C9C-A81A-997F0F1C256A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9863527C-2814-4C9C-A81A-997F0F1C256A}.Debug|Win32.Build.0 = Debug|Win32
+		{9863527C-2814-4C9C-A81A-997F0F1C256A}.Release|Win32.ActiveCfg = Release|Win32
+		{9863527C-2814-4C9C-A81A-997F0F1C256A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
